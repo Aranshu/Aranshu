@@ -1,23 +1,23 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Aranshu Bansal!
-
 <p align="center">
     <img src="https://github.com/Aranshu/Aranshu/blob/main/Images/ReadMe-Banner.png?raw=true alt="Banner" />
-</p>
-
+</p>                                                                                                 
+<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Aranshu Bansal! </h2>
+<h3 align="center"> Full Stack Developer </h3>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=aranshu&label=Profile%20views&color=129e00&style=plastic" alt="Profile View" /> 
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="Language Used" />
 
 ### Languages and Tools... 💡
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> 
 <br> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
 <br> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aranshu&show_icons=true&locale=en" alt="khushboogoel01" />
     
 ### A Little Bit About me... 😇
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aranshu&show_icons=true&locale=en" alt="Status" />
+
 - 🔭 I’m currently working on ... YouTube
 - 🌱 I’m currently learning ... .net
 - 👯 I’m looking to collaborate on ... .net 
