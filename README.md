@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="Language Used" />
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/database.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/database.png"/>
 <br> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img src="https://img.icons8.com/officexs/48/000000/java-eclipse.png"/> <img src="https://img.icons8.com/windows/48/000000/netbeans.png"/> <img src="https://img.icons8.com/color/50/000000/notepad-plus-plus.png"/> <img src="https://img.icons8.com/color/60/000000/mysql-logo.png"/>
 <br> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     
@@ -30,5 +30,3 @@
 
 ### Find me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/aranshu-bansal-813212191)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/AranshuB?s=08) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aranshu9399@gmail.com)](mailto:aranshu9399@gmail.com)
-
-
