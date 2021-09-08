@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Aranshu/Aranshu/blob/main/Images/ReadMe-Banner.png?raw=true alt="Banner" />
+    <img src="https://github.com/Aranshu/Aranshu/blob/main/Images/Banner.jpg?raw=true"/>
 </p>                                                                                                 
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Aranshu Bansal! </h2>
 <h3 align="center"> Full Stack Developer </h3>
