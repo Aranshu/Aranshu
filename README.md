@@ -7,9 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=aranshu&label=Profile%20views&color=129e00&style=plastic" alt="Profile View" /> 
 </p>
 
+### Languages and Tools... 💡
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="Language Used" />
 
-### Languages and Tools... 💡
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> 
 <br> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
 <br> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
