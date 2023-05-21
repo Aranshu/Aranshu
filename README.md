@@ -9,10 +9,12 @@
 
 ### Languages and Tools... 💡
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="Language Used" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranshu&show_icons=true&locale=en&layout=compact" alt="Language Used" />
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> <img src="https://img.icons8.com/color/48/angularjs.png" />  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/database.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/visual-studio--v2.png"/><img src="https://img.icons8.com/officexs/48/000000/java-eclipse.png"/> <img src="https://img.icons8.com/color/50/000000/notepad-plus-plus.png"/> <img src="https://img.icons8.com/color/60/000000/mysql-logo.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-    
+<br>
+<br>
+<br>
 ### A Little Bit About me... 😇
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aranshu&show_icons=true&locale=en" alt="Status" />
