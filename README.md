@@ -14,7 +14,7 @@
 
 ### A Little Bit About me... 😇
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aranshu&show_icons=true&locale=en" alt="Status" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranshu&show_icons=true&locale=en" alt="Status" />
 
 - 🔭 I’m currently working on ... YouTube
 - 🌱 I’m currently learning ... .net
